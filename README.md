@@ -1,8 +1,8 @@
-# Nama : Inda Khoirun Nisak
-# Kelas : TI-3B
-# Nim : 2041720020
+### Nama : Inda Khoirun Nisak
+### Kelas : TI-3B
+### Nim : 2041720020
 
-## Praktikum 2
+#### Praktikum 2
 
 1.mylist , myschema : dua variabel dalam Python yang digunakan untuk membuat DataFrame di PySpark. mylist adalah daftar item, sedangkan myschema adalah daftar string yang mendefinisikan nama kolom DataFrame.
 
